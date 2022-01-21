@@ -4,7 +4,7 @@
 Ok, the purpose of this license is simple
 and you just
 
-DO WHATEVER IT IS THAT YOU WANT TO DO, i.e. this license grants rights to (but NOT limited exclusively*)  do the following actions.
+DO WHATEVER IT IS THAT YOU WANT TO DO, i.e. this license grants rights to (but NOT limited exclusively*) do the following actions.
 
 *NOT limited exclusively:
 Below you will see examples of things you can do with this software, this does not mean that these are the only things you can do.
