@@ -9,7 +9,7 @@ and you are expected to just
 DO WHATEVER IT IS THAT YOU WANT TO DO, i.e. this license grants rights to (but NOT limited exclusively*) do the following actions.
 We will also state, that we will not be held resposible for any damage that is done by others when they use this software, because:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-AUTHORS DO NOT ASSUME LIABILITY FOR ANY DAMAGES DONE BY THIRD PARTIES, with or without this software.
+NEITHER AUTHORS NOR COPYRIGHT HOLDERS ASSUME LIABILITY FOR ANY DAMAGES DONE BY THIRD PARTIES, with or without this software.
 
 *NOT limited exclusively:
 Below you will see examples of things you can do with this software, this does not mean that these are the only things you can do.
