@@ -1,14 +1,18 @@
 # The WYW(td)-License
+
+derived from the WTFPL
 ```The WYW(td)-License v1.0
 
 Ok, the purpose of this license is simple
-and you just
+and you are expected to just
 
 DO WHATEVER IT IS THAT YOU WANT TO DO, i.e. this license grants rights to (but NOT limited exclusively*) do the following actions.
+We will also state, that we will not be held resposible for any damage that is done by others when they use this software, because:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+AUTHORS DO NOT ASSUME LIABILITY FOR ANY DAMAGES DONE BY THIRD PARTIES, with or without this software.
 
 *NOT limited exclusively:
 Below you will see examples of things you can do with this software, this does not mean that these are the only things you can do.
-Essentially, you are only limited by your imagination, and the laws of the region you reside in.
 
 - Modifications of any kind (e.g. publicly on internet services like GitHub but also privately, on your local machine)
 - Copying the software (to any location you can possibly think of)
