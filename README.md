@@ -1,15 +1,12 @@
 # The WYW(td)-License
 
-derived from the WTFPL
+_derived from the WTFPL (and including the essence of MIT)_
 ```The WYW(td)-License v1.0
 
 Ok, the purpose of this license is simple
 and you are expected to just
 
 DO WHATEVER IT IS THAT YOU WANT TO DO, i.e. this license grants rights to (but NOT limited exclusively*) do the following actions.
-We will also state, that we will not be held resposible for any damage that is done by others when they use this software, because:
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-NEITHER AUTHORS NOR COPYRIGHT HOLDERS ASSUME LIABILITY FOR ANY DAMAGES DONE BY THIRD PARTIES, with or without this software.
 
 *NOT limited exclusively:
 Below you will see examples of things you can do with this software, this does not mean that these are the only things you can do.
@@ -35,8 +32,10 @@ THIS LICENSE LIKELY HAS NO EFFECT ON THE POSSIBILITY OF DOING THESE THINGS ANYWA
 - Sending it to SpaceX via Google+ (oh, wait... you can't do that anymore, for a completely different reason)
 - Sending it to Government authorities via E-Mail
 
-
-
 GIT REVISION TAG: 
 THIS LICENSE ONLY APPLIES UP UNTIL THE GIT REVISION MENTIONED IN THIS LICENSE
-IF FOR ANY REASON, THE GIT REVISION MENTIONED HERE DOES NOT INCLUDE THE LATEST AND YOU REQUIRE IT TO BE```
+IF FOR ANY REASON, THE GIT REVISION MENTIONED HERE DOES NOT INCLUDE THE LATEST AND YOU REQUIRE IT TO BE
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+NEITHER AUTHORS NOR COPYRIGHT HOLDERS ASSUME ANY LIABILITY FOR ANYTHING DONE BY USERS OF THIS SOFTWARE,
+WETHER OR NOT THIS SOFTWARE WAS USED TO CREATE THE DAMAGE.```
