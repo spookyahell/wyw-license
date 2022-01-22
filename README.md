@@ -20,8 +20,8 @@ I.e. this license grants rights to (but NOT limited exclusively) do the followin
 - Copying the software (to any location you can possibly think of)
 - Sale (
 	REQUEST/HOPE (NOT required, only preferrably): with real additional content/functionality/modification, other than just changing "a few" bytes or with intent to only meet the bare minimum to "qualify for a useful modification"
-        ACTION TAKEN AGAINST PEOPLE WHO DO NOT FOLLOW THE REQUEST/HOPE: None, ever. 
-	)
+        ACTION TAKEN AGAINST PEOPLE WHO DO NOT FOLLOW THE REQUEST/HOPE: None, ever.
+)
 
 - Using in commercial (incl. patented) software/applications/solutions etc.
 
